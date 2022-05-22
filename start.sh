@@ -1,3 +1,6 @@
+GH_UNAME=mitsurukudo
+GH_REPO=mirror-leech-telegram-bot
+
 wget -q https://github.com/$GH_UNAME/$GH_REPO/raw/master/alive.py
 wget -q https://github.com/$GH_UNAME/$GH_REPO/raw/master/aria.sh
 wget -q https://github.com/$GH_UNAME/$GH_REPO/raw/master/extract
